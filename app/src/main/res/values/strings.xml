@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App de Notícias Adm</string>
+
+    <string name="titulo_principal">Escreva uma Notícia</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_noticia">Escreva sua Notícia</string>
+    <string name="hint_data">Data de Publicação</string>
+    <string name="hint_autor">Autor</string>
+    <string name="txt_button_publicar">Publicar Notícia</string>
+    <string name="txtTKNews">TK News</string>
+</resources>
