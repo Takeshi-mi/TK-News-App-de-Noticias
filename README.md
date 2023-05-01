@@ -1,4 +1,4 @@
-# TK-News-App-de-Noticias
+# TK News App de Noticias
 Hello everyone!
 Neste projeto estou finalmente colocando em prática algumas coisas que eu vinha estudando de desenvolvimento Android.
 
